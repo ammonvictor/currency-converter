@@ -1,6 +1,6 @@
 # currency-calculator
 
-> Currency Conversion App
+> A simple web currency conversion app
 
 ## Build Setup
 
